@@ -35,6 +35,6 @@ their applications against advanced reverse engineering and software cracking.
 - [x] Random internal data relocation
 - [x] Possibility to customize dialogs in protected application
 - [x] Support of command line
-- [x] Many many more...
+- [x] Many more...
 
 [Download Themida](https://github.com/ryancodingtm/Themida/releases/download/3.1.8.0/Themida_x32_x64_v3.1.8.0.zip)
